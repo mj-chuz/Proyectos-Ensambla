@@ -1,0 +1,8 @@
+[magnesio][manganeso][H][Mg][H][oxigeno][manganeso][O]
+
+[C][H][oro][Mg][C][carbono][magnesio][manganeso]
+[carbono][Au][carbono][Mn][Mg][magnesio][carbono][Au]
+[Mg][F][H][Mn][F][fluor][fluor][fluor]
+[magnesio][Mg][oxigeno][Mg][Mg][C][H][magnesio]
+[carbono][Au][fluor][Mn][hidrogeno][oro][oxigeno][oro]
+

@@ -1,0 +1,25 @@
+55555
+std::string int
+
+insert ninguno 1
+insert primo 2
+insert primo 3
+insert compuesto 4
+insert primo 5
+insert compuesto 6
+insert primo 7
+insert compuesto 8
+insert compuesto 9
+insert compuesto 10
+insert primo 11
+insert compuesto 12
+insert primo 13
+insert compuesto 14
+insert compuesto 15
+insert compuesto 16
+insert primo 17
+insert compuesto 18
+insert primo 19
+insert compuesto 20
+
+generate 8 20

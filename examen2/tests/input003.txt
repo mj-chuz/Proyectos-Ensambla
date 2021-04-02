@@ -1,0 +1,48 @@
+11111
+char std::string
+
+insert 0 null
+insert 1 eins
+insert 2 zwei
+insert 3 drei
+insert 4 vier
+insert 5 funf
+insert 6 sechs
+insert 7 sieben
+insert 8 acht
+insert 9 neun
+
+insert 1 un
+insert 2 deux
+insert 3 trois
+insert 4 quatre
+insert 5 cinq
+insert 6 six
+insert 7 sept
+insert 8 huit
+insert 9 neuf
+
+insert 0 zero
+insert 1 um
+insert 2 dois
+insert 3 tres
+insert 4 quatro
+insert 5 cinco
+insert 6 seis
+insert 7 sete
+insert 8 oito
+insert 9 nove
+
+insert 0 zero
+insert 1 uno
+insert 2 due
+insert 3 tre
+insert 4 quattro
+insert 5 cinque
+insert 6 sei
+insert 7 sette
+insert 8 otto
+insert 9 nove
+
+generate 4 4
+generate 6 7

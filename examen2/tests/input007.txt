@@ -1,0 +1,40 @@
+144
+int Expression
+
+mathInsert power 2 0
+mathInsert power 7 0
+mathInsert power 1 0
+mathInsert power 1 1
+mathInsert root 3 3
+mathInsert root 5 1
+mathInsert log 2 2
+
+mathInsert power 2 1
+mathInsert root 2 4
+mathInsert root 3 8
+mathInsert root 5 32
+mathInsert log 2 4
+mathInsert log 5 25
+mathInsert log 10 100
+
+mathInsert power 3 1
+mathInsert root 2 9
+mathInsert root 3 27
+mathInsert root 4 81
+mathInsert log 3 9
+mathInsert log 2 8
+mathInsert log 10 1000
+
+mathInsert power 4 1
+mathInsert power 2 2
+mathInsert root 2 16
+mathInsert root 3 64
+mathInsert root 4 256
+mathInsert log 2 16
+mathInsert log 3 64
+mathInsert log 4 256
+mathInsert log 10 10000
+
+generate 1 12
+generate 4 8
+generate 8 4

@@ -1,0 +1,17 @@
+[eleven][twelve][tres]
+[tres][once][doce]
+
+[eleven][ten][diez][twelve]
+[cero][once][doce][zero]
+
+[one][dos][five][0][one][two]
+[cinco][diez][zero][once][eleven][ten]
+
+[tres][two][ten][doce]
+[dos][dos][two][doce]
+[three][two][diez][2]
+
+[cinco][seven][seven][six][0][1]
+[2][zero][dos][seis][1][seis]
+[nine][nueve][six][nueve][cinco][9]
+

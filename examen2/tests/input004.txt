@@ -1,0 +1,20 @@
+1640
+std::string std::string
+
+insert F fluor
+insert F F
+insert H hidrogeno
+insert H H
+insert Mn manganeso
+insert Mn Mn
+insert C carbono
+insert C C
+insert O oxigeno
+insert O O
+insert Au oro
+insert Au Au
+insert Mg magnesio
+insert Mg Mg
+
+generate 1 8
+generate 5 8

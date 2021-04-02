@@ -1,0 +1,12 @@
+[otto][uno][otto][sette]
+[quattro][un][seis][acht]
+[quatro][sept][sete][sei]
+[oito][sept][sette][sette]
+
+[six][zero][quatro][sei][cinco][neuf][nove]
+[sieben][neun][sei][neun][sei][sept][nove]
+[null][vier][zero][uno][cinque][neuf][eins]
+[zwei][quatre][sieben][deux][quatre][zwei][eins]
+[quattro][sette][sei][zero][seis][un][tre]
+[neun][tre][trois][deux][nove][drei][quatre]
+
